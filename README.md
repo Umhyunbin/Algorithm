@@ -1,1 +1,1 @@
-# Algorithm
+# Repository for study algorithm
