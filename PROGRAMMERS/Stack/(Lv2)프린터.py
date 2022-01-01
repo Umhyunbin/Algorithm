@@ -22,6 +22,9 @@ def solution(priorities, location):
 
 pr = [2, 1, 3, 2]
 loc = 2
-#pr = [1, 1, 9, 1, 1, 1]
-#loc = 0
+
 print(solution(pr, loc))
+
+"""
+출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+"""
