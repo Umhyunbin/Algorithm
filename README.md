@@ -5,7 +5,7 @@
 ### 2. [Queue](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Queue)
 ### 3. [BFS](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/BFS)
 ### 4. [DP](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/DP)
-### 5. [Brute-Force](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Brute-force)
+### 5. [Brute_force](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Brute_force)
 ### 6. [Graph](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Graph)
 ### 7. [Greedy](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Greedy)
 ### 8. [Number_Theory](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Number_Theory)
