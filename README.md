@@ -8,7 +8,7 @@
 ### 5. [Brute-Force](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Brute-force)
 ### 6. [Graph](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Graph)
 ### 7. [Greedy](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Greedy)
-### 8. [Number_Theory](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Number_theory)
+### 8. [Number_Theory](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Number_Theory)
 ### 9. [Recursion](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/Recursion)
 ### 10. [String](https://github.com/Umhyunbin/Algorithm/tree/master/BAEKJOON/String)
 
