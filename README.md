@@ -14,3 +14,4 @@
 
 ## 2. 프로그래머스
 ### 1. [Stack & Queue](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Stack%20%26%20Queue)
+### 2. [Brute_force](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Brute_force)
