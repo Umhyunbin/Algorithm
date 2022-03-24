@@ -10,3 +10,7 @@ def solution(participant, completion):
     for i in d:
         if d[i] == 1:
             return i
+
+"""
+출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+"""
