@@ -15,3 +15,6 @@
 ## 2. 프로그래머스
 ### 1. [Stack & Queue](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Stack%20%26%20Queue)
 ### 2. [Brute_force](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Brute_force)
+### 3. [Hash](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Hash)
+### 4. [BFS](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/BFS)
+### 5. [Sort](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Sort)
