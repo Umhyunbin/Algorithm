@@ -18,4 +18,5 @@
 ### 3. [Hash](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Hash)
 ### 4. [BFS](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/BFS)
 ### 5. [Sort](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/Sort)
-### 5. [DP](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/DP)
+### 6. [DP](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/DP)
+### 7. [String](https://github.com/Umhyunbin/Algorithm/tree/master/PROGRAMMERS/String)
